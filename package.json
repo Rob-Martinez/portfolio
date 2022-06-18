@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/Rob-Martinez/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Robert Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/Rob-Martinez/simplefolio"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
